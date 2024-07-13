@@ -9,7 +9,7 @@ int main() {
     int year;
   } myCar1, myCar2; // We can add variables by separating them with a comma here
 
-  // Put data into the first structure
+  // Put data into the first structure hellooooo
   myCar1.brand = "BMW";
   myCar1.model = "X5";
   myCar1.year = 1999;
